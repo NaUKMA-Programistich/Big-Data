@@ -1,0 +1,3 @@
+[submodule "PySpark/pyspark-examples"]
+	path = PySpark/pyspark-examples
+	url = git@github.com:spark-examples/pyspark-examples.git
